@@ -1,0 +1,92 @@
+"drugA","drugB","Similarity","mPositive","mNegative","mFalse","iPositive","iNegative","iFalse","Score"
+"Aclacinomycin A","Blebbistatin",0.01633,0,0,0,0,0,0,0.000485
+"Aclacinomycin A","Camptothecin",0.02745,0,0,0,0,0,0,0.00056
+"Aclacinomycin A","Cycloheximide",0.01063,0,0,0,0,0,0,0.000195
+"Aclacinomycin A","Doxorubicin hydrochloride",0.01958,0,0,0,0,0,0,0.00077
+"Aclacinomycin A","Etoposide",0.02639,0,0,0,0,0,0,0.00088
+"Aclacinomycin A","Geldanamycin",0.00585,0,0,0,0,0,0,0.000135
+"Aclacinomycin A","H-7, Dihydrochloride",0.03099,0,0,0,0,0,0,0.00254
+"Aclacinomycin A","Methotrexate",0.03678,0,0,0,0,0,0,5.5e-05
+"Aclacinomycin A","Mitomycin C",0.03237,0,0,0,0,0,0,0.0014
+"Aclacinomycin A","Monastrol",0.00861,0,0,0,0,0,0,0.00061
+"Aclacinomycin A","Rapamycin",0.02243,0,0,0,0,0,0,0.0037
+"Aclacinomycin A","Trichostatin A",0.02155,0,0,0,0,0,0,0.001335
+"Aclacinomycin A","Vincristine",0.01452,0,0,0,0,0,0,0.000145
+"Blebbistatin","Camptothecin",1.12379,24,3,0,17.5,2.5,10,0.07281
+"Blebbistatin","Cycloheximide",0.380445,1,0,2,14,0,1,0.011045
+"Blebbistatin","Doxorubicin hydrochloride",0.50872,22,4,2,10.5,5,13.5,0.030185
+"Blebbistatin","Etoposide",0.859775,23,4,1,20.5,5.5,16,0.060605
+"Blebbistatin","Geldanamycin",0.01633,0,0,0,0,0,0,0.000325
+"Blebbistatin","H-7, Dihydrochloride",2.086785,70,5,1,65,9.5,41,0.38308
+"Blebbistatin","Methotrexate",0.954795,25,1,0,24,1,22,0.039275
+"Blebbistatin","Mitomycin C",1.195695,20,2,1,14,2,7,0.128995
+"Blebbistatin","Monastrol",0.55431,7,0,0,7.5,0,1.5,0.081215
+"Blebbistatin","Rapamycin",1.034725,36,3,0,22,3.5,11.5,0.219845
+"Blebbistatin","Trichostatin A",0.54548,9,2,2,11,5,6,0.052085
+"Blebbistatin","Vincristine",0.75828,43,0,0,14.5,2,12,0.031795
+"Camptothecin","Cycloheximide",0.85504,2,0,1,18,0,2,0.03479
+"Camptothecin","Doxorubicin hydrochloride",1.71008,38,8,0,17,7,13.5,0.174465
+"Camptothecin","Etoposide",2.40755,63,11,0,23,7,17.5,0.301485
+"Camptothecin","Geldanamycin",0.02745,0,0,0,0,0,0,0.000295
+"Camptothecin","H-7, Dihydrochloride",1.25447,30,5,8,67,11,59,0.132095
+"Camptothecin","Methotrexate",2.88223,63,6,0,27.5,2,20,0.31616
+"Camptothecin","Mitomycin C",3.094475,51,6,0,18,4,6.5,0.58274
+"Camptothecin","Monastrol",0.5091,4,1,0,4.5,0.5,1.5,0.05426
+"Camptothecin","Rapamycin",0.807405,16,3,1,20,4,13,0.112825
+"Camptothecin","Trichostatin A",0.841855,10,4,1,10,4.5,6,0.07877
+"Camptothecin","Vincristine",0.935055,24,1,0,13,1,7.5,0.034105
+"Cycloheximide","Doxorubicin hydrochloride",-0.059335,1,0,5,14.5,0.5,5,0.012815
+"Cycloheximide","Etoposide",0.702055,3,0,2,19,0.5,3,0.033675
+"Cycloheximide","Geldanamycin",0.01063,0,0,0,0,0,0,9e-05
+"Cycloheximide","H-7, Dihydrochloride",1.951805,4,1,1,30,1,5,0.293895
+"Cycloheximide","Methotrexate",1.43017,3,0,1,22.5,0,2.5,0.072265
+"Cycloheximide","Mitomycin C",1.1638,1,0,0,17,0,1.5,0.0986
+"Cycloheximide","Monastrol",0.15707,0,0,1,4.5,0,0,0.01623
+"Cycloheximide","Rapamycin",0.77363,1,0,0,13,0,0,0.083165
+"Cycloheximide","Trichostatin A",0.078775,0,0,2,3,0.5,0.5,0.002225
+"Cycloheximide","Vincristine",0.11194,1,0,2,10.5,0,2,-0.000505
+"Doxorubicin hydrochloride","Etoposide",1.995005,49,24,0,22.5,8.5,22,0.274075
+"Doxorubicin hydrochloride","Geldanamycin",0.01958,0,0,0,0,0,0,0.000585
+"Doxorubicin hydrochloride","H-7, Dihydrochloride",0.545165,27,7,14,46,22.5,66.5,0.05408
+"Doxorubicin hydrochloride","Methotrexate",1.256375,45,4,9,21.5,5.5,29,0.08167
+"Doxorubicin hydrochloride","Mitomycin C",2.142155,35,8,0,16.5,5,11,0.360185
+"Doxorubicin hydrochloride","Monastrol",0.460805,6,2,0,2,0.5,2,0.066805
+"Doxorubicin hydrochloride","Rapamycin",0.7115,23,5,0,21,5.5,18,0.152725
+"Doxorubicin hydrochloride","Trichostatin A",0.81527,16,10,0,5.5,5.5,9.5,0.10143
+"Doxorubicin hydrochloride","Vincristine",0.482065,20,1,1,11.5,4.5,11,0.017675
+"Etoposide","Geldanamycin",0.02639,0,0,0,0,0,0,0.000625
+"Etoposide","H-7, Dihydrochloride",1.039845,36,8,14,75.5,21.5,79.5,0.130245
+"Etoposide","Methotrexate",2.14847,69,5,5,31.5,5.5,35,0.203845
+"Etoposide","Mitomycin C",2.702905,52,8,0,21.5,5.5,13.5,0.51866
+"Etoposide","Monastrol",0.51174,5,2,0,3.5,0.5,3,0.07354
+"Etoposide","Rapamycin",0.74276,23,4,1,26.5,5.5,23,0.14033
+"Etoposide","Trichostatin A",0.936635,12,10,0,11,5.5,10,0.11741
+"Etoposide","Vincristine",0.78024,27,0,1,15.5,4,12.5,0.035675
+"Geldanamycin","H-7, Dihydrochloride",0.03099,0,0,0,0,0,0,0.00224
+"Geldanamycin","Methotrexate",0.03678,0,0,0,0,0,0,-3e-04
+"Geldanamycin","Mitomycin C",0.03237,0,0,0,0,0,0,0.001085
+"Geldanamycin","Monastrol",0.00861,0,0,0,0,0,0,0.000525
+"Geldanamycin","Rapamycin",0.02243,0,0,0,0,0,0,0.003485
+"Geldanamycin","Trichostatin A",0.02155,0,0,0,0,0,0,0.00113
+"Geldanamycin","Vincristine",0.01452,0,0,0,0,0,0,5e-06
+"H-7, Dihydrochloride","Methotrexate",1.081385,44,2,17,101,15.5,99,0.045695
+"H-7, Dihydrochloride","Mitomycin C",1.5376,29,3,6,61.5,8.5,41.5,0.2893
+"H-7, Dihydrochloride","Monastrol",2.52074,17,1,0,25,0,9.5,1.063205
+"H-7, Dihydrochloride","Rapamycin",2.220705,87,10,0,102,18,74,1.271935
+"H-7, Dihydrochloride","Trichostatin A",1.330005,26,5,4,36,15.5,32,0.294205
+"H-7, Dihydrochloride","Vincristine",1.568365,69,5,4,68,9,56,0.157885
+"Methotrexate","Mitomycin C",2.734835,51,2,0,24,3,15.5,0.503085
+"Methotrexate","Monastrol",0.67539,5,1,1,6,0.5,2.5,0.088155
+"Methotrexate","Rapamycin",0.78348,22,1,3,31.5,4.5,28.5,0.10902
+"Methotrexate","Trichostatin A",0.36868,14,0,5,12,4.5,16.5,0.01838
+"Methotrexate","Vincristine",0.96907,27,2,1,21.5,1,21,0.01691
+"Mitomycin C","Monastrol",0.661285,3,0,0,4.5,0.5,0,0.092135
+"Mitomycin C","Rapamycin",1.184735,16,3,1,23,3.5,11,0.258955
+"Mitomycin C","Trichostatin A",0.96828,5,4,1,9,4,2,0.12209
+"Mitomycin C","Vincristine",1.012915,18,0,1,13.5,2,7,0.086055
+"Monastrol","Rapamycin",0.691915,8,0,0,7,0,2,0.14386
+"Monastrol","Trichostatin A",0.1832,2,0,0,2.5,0,2.5,0.023735
+"Monastrol","Vincristine",0.46115,7,1,0,5.5,0,1,0.05965
+"Rapamycin","Trichostatin A",0.487585,15,2,0,10,4,12,0.102395
+"Rapamycin","Vincristine",0.8499,35,1,0,20.5,2.5,15,0.140175
+"Trichostatin A","Vincristine",0.487205,12,0,1,8.5,3,6,0.04159
