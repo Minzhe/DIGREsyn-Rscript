@@ -7,7 +7,7 @@
 ### Set working directory
 #######################################
 # User needs to change setwd() to their own directory that contains this script 
-setwd("/home2/s418336/project/drugCombination/CommandLineTool/")
+setwd("/home/minzhe/Project/DIGREsyn-Rscript")
 
 suppressMessages(library(argparse))
 
@@ -77,8 +77,6 @@ if (pathway == 2) {
 ########################################
 ### 3. Scoring by DIGRE model
 ########################################
-cat("\nStart scoring all compound pairs by DIGRE model......\n")
-cat("------------\n")
 cat("Fold change cut off used: ", fold, "(default = 0.6)\n", sep = "")
 if (pathway == 1) {
       cat("Pathway information used: KEGG pathway information\n")
