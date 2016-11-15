@@ -40,7 +40,7 @@ First change the setwd("") command in DIGRE_pipline.R script to the folder conta
 Then change the linux current directory to the folder contains this file.
 
 You need to specify four argument to run the R script [gene expression file name] followed by [dose response file name], [-p 1(or 2)] and [-f 0.6(or other cut off between 0 and 1)]
--p: The pathway information to use: 1 for KEGG pathway information, 2 for constructed lymphoma gene network(partial corelation) information, 3 for constructed lymphoma gene network(marginal corelation) information. Default is 1.
+-p: The pathway information to use: 1 for KEGG pathway information, 2 for constructed gene network information. Default is 1.
 -f: The gene expression fold change cut off to use, should be decimal between zero and one. Default is 0.6.
 
 To run the demofile, just type:
